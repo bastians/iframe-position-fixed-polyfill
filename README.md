@@ -118,7 +118,7 @@ You can change the behavior of these functions by defining them **_before_** you
 
 # Demo
 
-Sure. Feel free [to take a look](https://julianxhokaxhiu.github.io/iframe-position-fixed-polyfill/)
+Sure. Feel free [to take a look](https://mercedesbenzio.github.io/iframe-position-fixed-polyfill/)
 
 # License
 
